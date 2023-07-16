@@ -1,1 +1,1 @@
-# TechnologyAdoption
+# Technology Adoption
