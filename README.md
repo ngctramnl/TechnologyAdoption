@@ -1,6 +1,6 @@
 # Technology Perception
 # About Dataset
-- Collected from a survey primarily conducted in India
+- Collected from a [survey](https://www.kaggle.com/datasets/mrcalvinwhite/technology-perception-survey) primarily conducted in India
 - Survey data was collected to measure technology usage patterns, perceived benefits, perceived risks, perceived barriers, likeliness to adopt, likeliness to recommend, etc.
 
 
